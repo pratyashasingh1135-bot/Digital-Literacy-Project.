@@ -1,1 +1,16 @@
+This project represents the intersection of my technical skill development and its practical application in assessing digital safety. By combining foundational programming with real-world data collection, I’ve been able to see the full lifecycle of a digital literacy initiative.
 
+
+Core Components of the Study:
+The Technical Foundation: Through a series of Python challenges on HackerRank, I solidified my understanding of core logic, arithmetic operations, and data structures. 
+This wasn't just about "solving code"; it was about building the analytical tools necessary to process and interpret user data effectively.
+
+The Literacy Assessment: I designed a Digital Literacy Survey focused on critical modern competencies: identifying phishing scams, managing a digital footprint, and verifying online sources.
+The goal was to move beyond "using" the internet to "understanding" its risks and responsibilities.
+
+Data-Driven Insights: Early results from the survey reveal a significant gap in awareness. While 66.7% of participants correctly identified phishing, a notable 33.3% still lack a clear understanding of the term.
+This small sample size already highlights why technical education and awareness campaigns are essential in our current digital landscape.
+
+Personal Takeaway:-
+The most rewarding part of this project was seeing my coding practice translate into a functional tool. 
+Moving forward, I plan to use these Python-based logic skills to analyze the remaining survey responses, helping to pinpoint exactly where digital education is failing and how we can bridge that gap.
